@@ -2,7 +2,8 @@
     "users": [
         {
           "id": "1",
-          "name":"Peter Castle",
+          "name":"Peter",
+          "lastName":"Castle",
           "email": "admin",
           "password": "admin",
           "type": "businessman",
@@ -14,7 +15,8 @@
         },
         {
           "id": "2",
-          "name":"Alan garcia",
+          "name":"Alan",
+          "lastName":"Garcia",
           "email": "admin1",
           "password": "admin1",
           "type": "carrier",
@@ -26,13 +28,14 @@
         },
         {
           "id": "3",
-          "name":"Maria Elena Moyano",
+          "name":"Maria Elena",
+          "lastName":"Moyano",
           "email": "admin2",
           "password": "admin2",
           "type": "carrier",
           "vehicules":[
               {
-                  "id-vehicule":"2"
+                  "id-vehicule":"3"
               }
           ]
         },
