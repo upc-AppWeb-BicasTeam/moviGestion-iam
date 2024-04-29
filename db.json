@@ -2,21 +2,39 @@
     "users": [
         {
           "id": "1",
+          "name":"Peter Castle",
           "email": "admin",
           "password": "admin",
-          "type": "businessman"
+          "type": "businessman",
+          "vehicules":[
+              {
+                  "id-vehicule":"1"
+              }
+          ]
         },
         {
           "id": "2",
-          "email": "basiness",
-          "password": "business",
-          "type": "businessman"
+          "name":"Alan garcia",
+          "email": "admin1",
+          "password": "admin1",
+          "type": "carrier",
+          "vehicules":[
+              {
+                  "id-vehicule":"2"
+              }
+          ]
         },
         {
-            "id": "3",
-            "email": "drive",
-            "password": "drive",
-            "type": "carrier"
-        }
+          "id": "3",
+          "name":"Maria Elena Moyano",
+          "email": "admin2",
+          "password": "admin2",
+          "type": "carrier",
+          "vehicules":[
+              {
+                  "id-vehicule":"2"
+              }
+          ]
+        },
     ]
 }
