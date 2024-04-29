@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+          "id": "1",
+          "email": "admin",
+          "password": "admin",
+          "type": "businessman"
+        },
+        {
+          "id": "2",
+          "email": "basiness",
+          "password": "business",
+          "type": "businessman"
+        },
+        {
+            "id": "3",
+            "email": "drive",
+            "password": "drive",
+            "type": "carrier"
+        }
+    ]
+}
