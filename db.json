@@ -9,7 +9,8 @@
           "type": "businessman",
           "vehicules":[
               {
-                  "id-vehicule":"1"
+                  "id-vehicule":"3",
+                  "id-vehicule":"2"
               }
           ]
         },
