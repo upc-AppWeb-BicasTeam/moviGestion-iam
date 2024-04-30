@@ -7,12 +7,12 @@
           "email": "admin",
           "password": "admin",
           "type": "businessman",
-          "vehicules":[
+          "vehicles":[
             {
-              "id-vehicule":"1"
+              "idVehicle":"1"
             },              
             {
-              "id-vehicule":"2"
+              "idVehicle":"2"
             } 
           ]
         },
@@ -23,9 +23,9 @@
           "email": "admin1",
           "password": "admin1",
           "type": "carrier",
-          "vehicules":[
+          "vehicles":[
             {
-              "id-vehicule":"2"
+              "idVehicle":"2"
             }
           ]
         },
@@ -36,9 +36,9 @@
           "email": "admin2",
           "password": "admin2",
           "type": "carrier",
-          "vehicules":[
+          "vehicles":[
             {
-              "id-vehicule":"1"
+              "idVehicle":"1"
             }
           ]
         }
